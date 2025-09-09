@@ -1,3 +1,4 @@
+#第一步
 /bin/bash -c "$(curl -fsSL https://mirrors.ustc.edu.cn/misc/brew-install.sh)"
 /usr/local/bin/brew update --force --quiet
 brew install --cask visual-studio-code
@@ -11,7 +12,7 @@ git clone https://codeup.aliyun.com/chuangyuan/android/script/AndroidScript.git
 git clone https://codeup.aliyun.com/chuangyuan/android/script/HttpScript.git
 git clone https://codeup.aliyun.com/672c8a3c2e4840914701d975/flaskProject.git
 
-
+#第二部
 brew install openjdk@17
 brew install python@3.10
 brew install mysql
